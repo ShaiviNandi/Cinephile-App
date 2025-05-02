@@ -16,19 +16,19 @@ The **Cinephile_App** serves as an interactive movie database and visualization 
 
 ## Features
 
--   **  Cinephile App interface ** :
+-   **Cinephile App interface** :
           The final product of all the programs written.
--   ** Web Scraping** :
+-   **Web Scraping** :
 
      Data scraped from the 2 websites are our source for our App's database and Visualisation
     
--   ** Database management** :
+-   **Database management** :
 
    The SQL database consists of 2 main tables: *Users* and *Movies*, along with a number of
   relationship tables which holds information related to our app.
   
    Stores information related to movies and the application' users.
-- ** Visualisation ** : Visualisation.py displays two graphs in a separate window ( side by side frames). 
+- **Visualisation** : Visualisation.py displays two graphs in a separate window ( side by side frames). 
 
 ## Modules used: 
 - **Tkinter**: GUI framework.
